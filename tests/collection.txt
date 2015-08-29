@@ -1,0 +1,4 @@
+Beginning C++ Through Game Programming, Michael Dawson
+Game Programming Patterns, Robert Nystrom
+Beginning C++ Through Game Programming, Michael Dawson
+Game Programming Patterns, Robert Nystrom
